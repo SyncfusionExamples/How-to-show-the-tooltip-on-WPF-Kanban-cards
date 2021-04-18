@@ -97,7 +97,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Syncfusion.SfKanban.WPF">
-      <Version>18.4.0.32</Version>
+      <Version>*</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
