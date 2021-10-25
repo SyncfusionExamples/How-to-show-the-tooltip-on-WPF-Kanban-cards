@@ -50,6 +50,8 @@ This has been achieved by adding the tooltip supported control as base and add y
 ```
 **CardTemplate has DataContext as [KanbanModel](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Kanban.KanbanModel.html)**
 
+KB article - [How-to-show-the-tooltip-on-WPF-Kanban-cards](https://www.syncfusion.com/kb/12298/how-to-show-the-tooltip-on-wpf-kanban-cards)
+
 # See also
 
 [How to add the template to the WPF SfKanban cards](https://help.syncfusion.com/wpf/kanban-board/cards#template)
